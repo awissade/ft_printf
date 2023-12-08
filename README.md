@@ -1,2 +1,1 @@
-# ft_printf
-create my own printf function
+This project recodes the C printf() function focusing on variadic functions. It handles conversions for various data types and integrates with the libft library. The code is structured, extensible, and follows Norm guidelines. A library named libftprintf.a is created for future use, and test programs are encouraged for evaluation.
