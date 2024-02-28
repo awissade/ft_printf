@@ -1,1 +1,1 @@
-# ft_printf
+The "ft_printf" project 🖨️ is a deep dive into recoding the C printf() function, with a focus on mastering variadic functions 🌀. This task involves managing diverse data type conversions, including characters, strings, pointers, and various numeric formats. It's an exercise in creating structured, extensible code that aligns with Norm standards 📏. The end product is the libftprintf.a library, a valuable asset for future C programming projects, enhancing your toolbox with a custom implementation of a fundamental C function.
